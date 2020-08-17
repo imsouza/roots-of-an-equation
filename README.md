@@ -1,6 +1,6 @@
-## Author
+# Roots of an Equation
 
-Mateus Almeida
+UFES - Program to find the roots of an equation using the functional paradigm written in Python 
 
 ## Methods used
 
@@ -18,6 +18,10 @@ In numerical analysis, the secant method is a root-finding algorithm that uses a
 In mathematics, the bisection method is a root-finding method that applies to any continuous functions for which one knows two values with opposite signs. The method consists of repeatedly bisecting the interval defined by these values and then selecting the subinterval in which the function changes sign, and therefore must contain a root. It is a very simple and robust method, but it is also relatively slow.
 
 <img src="https://i.imgur.com/9F0A6RM.png" alt="Bisection method" width="300">
+
+## Author
+
+Mateus Almeida
 
 ## License
 
