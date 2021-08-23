@@ -13,7 +13,7 @@ def bissecao(f, a, b, ni, t, i=0, l=[]):
   # Condição de parada em relação ao número de vezes que será executado ni
   if i < ni:
     # Condição de parada caso o módulo seja menor que a tolerância
-    if abs(b-a) < t:
+    if abs(b-a) <= t:
       return x
     # Condição de parada caso o ponto médio em f seja 0
     if f(x) == 0:
